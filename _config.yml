@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5412186
+color:
+  saturation: 0.7903226
+  lightness: 0.6666667
+  brandStrength: 0.9302214
+  brandColors:
+    - '#1D1D20'
+    - '#CF9A80'
+    - '#65301F'
+    - '#6E6E87'
+    - '#FFFAFF'
+  rhythmicContrast: 0.765233
+name: vecphoto
